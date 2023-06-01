@@ -6,4 +6,5 @@ import image from "@astrojs/image";
 export default defineConfig({
   integrations: [image()],
   site: 'https://str4ng3love.github.io',
+  base: '/trade-strat'
 });
