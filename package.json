@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "trade-strat",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/image": "^0.16.9",
     "astro": "^2.5.6"
   }
 }
